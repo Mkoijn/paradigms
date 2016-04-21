@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460924601 source:c:\users\paul\desktop\paradigms\pointers\assignment2\assignment2.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<iomanip>
+
