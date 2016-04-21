@@ -1,4 +1,11 @@
-// Assignment 2
+/**
+    DT249/2 Paradigms and Data Structures
+    assignment2.cpp
+    Info: Demonstrate linked lists
+
+    @author Paul Durack(D14124275)
+    @version 1.0 21/04/2016
+*/
 
 #include <iostream>
 #include <ctime>
