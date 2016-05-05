@@ -1,11 +1,10 @@
 /**
-    DT249/2 Paradigms and Data Structures
-    assignment2.cpp
-    Info: Demonstrate linked lists
+ * DT249/2 Paradigms and Data Structures
+ * assignment2.cpp
+ * Info: Demonstrate linked lists
 
-    @author Paul Durack(D14124275)
-    @version 1.0 21/04/2016
-*/
+ * @author Paul Durack(D14124275)
+ */
 
 #include <iostream>
 #include <ctime>
@@ -14,7 +13,7 @@
 
 using namespace std;
 
-// create node to represent a transaction
+// create a node to represent a transaction
 struct node
 {
     string date;
